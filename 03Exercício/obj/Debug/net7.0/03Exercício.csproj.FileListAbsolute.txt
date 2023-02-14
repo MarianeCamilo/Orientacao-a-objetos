@@ -1,0 +1,15 @@
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\03Exercício\bin\Debug\net7.0\03Exercício.exe
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\03Exercício\bin\Debug\net7.0\03Exercício.deps.json
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\03Exercício\bin\Debug\net7.0\03Exercício.runtimeconfig.json
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\03Exercício\bin\Debug\net7.0\03Exercício.dll
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\03Exercício\bin\Debug\net7.0\03Exercício.pdb
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\03Exercício\obj\Debug\net7.0\03Exercício.csproj.AssemblyReference.cache
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\03Exercício\obj\Debug\net7.0\03Exercício.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\03Exercício\obj\Debug\net7.0\03Exercício.AssemblyInfoInputs.cache
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\03Exercício\obj\Debug\net7.0\03Exercício.AssemblyInfo.cs
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\03Exercício\obj\Debug\net7.0\03Exercício.csproj.CoreCompileInputs.cache
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\03Exercício\obj\Debug\net7.0\03Exercício.dll
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\03Exercício\obj\Debug\net7.0\refint\03Exercício.dll
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\03Exercício\obj\Debug\net7.0\03Exercício.pdb
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\03Exercício\obj\Debug\net7.0\03Exercício.genruntimeconfig.cache
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\03Exercício\obj\Debug\net7.0\ref\03Exercício.dll

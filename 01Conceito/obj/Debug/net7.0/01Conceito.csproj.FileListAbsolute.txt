@@ -1,0 +1,15 @@
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\01Conceito\bin\Debug\net7.0\01Conceito.exe
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\01Conceito\bin\Debug\net7.0\01Conceito.deps.json
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\01Conceito\bin\Debug\net7.0\01Conceito.runtimeconfig.json
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\01Conceito\bin\Debug\net7.0\01Conceito.dll
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\01Conceito\bin\Debug\net7.0\01Conceito.pdb
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\01Conceito\obj\Debug\net7.0\01Conceito.csproj.AssemblyReference.cache
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\01Conceito\obj\Debug\net7.0\01Conceito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\01Conceito\obj\Debug\net7.0\01Conceito.AssemblyInfoInputs.cache
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\01Conceito\obj\Debug\net7.0\01Conceito.AssemblyInfo.cs
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\01Conceito\obj\Debug\net7.0\01Conceito.csproj.CoreCompileInputs.cache
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\01Conceito\obj\Debug\net7.0\01Conceito.dll
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\01Conceito\obj\Debug\net7.0\refint\01Conceito.dll
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\01Conceito\obj\Debug\net7.0\01Conceito.pdb
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\01Conceito\obj\Debug\net7.0\01Conceito.genruntimeconfig.cache
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\01Conceito\obj\Debug\net7.0\ref\01Conceito.dll
