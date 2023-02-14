@@ -1,0 +1,25 @@
+1) Criar uma pasta chama 04ExercicioIMC
+
+2) Acessar a pasta via terminal
+
+3) Criar um projeto via terminal
+
+4) Criar uma classe chamada Pessoa
+
+5) Na classe Pessoa adicionar os atributos: peso e altura 
+
+6) Criar um método para retornar o IMC, será um método double
+com cálculo: peso / (altura * altura)
+
+7) Criar um método para retornar a string dependendo do IMC:
+< 18.5 - Abaixo do peso
+< 25 - Peso normal
+< 30 - Acima do peso
+< 35 - Obesidade I
+< 40 - Obesidade II
+>= 40 - Obesidade III
+
+8) Criar um método de mensagem para exibir o cálculo e a situação
+
+9) Instanciar um objeto na classe Program
+
