@@ -2,7 +2,7 @@ using System;
 
 class Pessoa
 {
-    // atributos
+    // atributos para a classe pessoa
     protected string nome;
     protected int idade;
 

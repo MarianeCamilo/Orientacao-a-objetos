@@ -16,7 +16,7 @@ class Colaborador : Pessoa
         mensagemColaborador();
     }
 
-    // método
+    // método para a função
     private void mensagemColaborador()
     {
         Console.WriteLine("Salário: " + salario);
