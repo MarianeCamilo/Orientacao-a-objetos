@@ -1,0 +1,15 @@
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\10Heranca\bin\Debug\net7.0\10Heranca.exe
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\10Heranca\bin\Debug\net7.0\10Heranca.deps.json
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\10Heranca\bin\Debug\net7.0\10Heranca.runtimeconfig.json
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\10Heranca\bin\Debug\net7.0\10Heranca.dll
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\10Heranca\bin\Debug\net7.0\10Heranca.pdb
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\10Heranca\obj\Debug\net7.0\10Heranca.csproj.AssemblyReference.cache
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\10Heranca\obj\Debug\net7.0\10Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\10Heranca\obj\Debug\net7.0\10Heranca.AssemblyInfoInputs.cache
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\10Heranca\obj\Debug\net7.0\10Heranca.AssemblyInfo.cs
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\10Heranca\obj\Debug\net7.0\10Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\10Heranca\obj\Debug\net7.0\10Heranca.dll
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\10Heranca\obj\Debug\net7.0\refint\10Heranca.dll
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\10Heranca\obj\Debug\net7.0\10Heranca.pdb
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\10Heranca\obj\Debug\net7.0\10Heranca.genruntimeconfig.cache
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\10Heranca\obj\Debug\net7.0\ref\10Heranca.dll
