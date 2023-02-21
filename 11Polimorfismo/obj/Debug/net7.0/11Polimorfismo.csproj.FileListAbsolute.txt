@@ -1,0 +1,5 @@
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\11Polimorfismo\obj\Debug\net7.0\11Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\11Polimorfismo\obj\Debug\net7.0\11Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\11Polimorfismo\obj\Debug\net7.0\11Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\11Polimorfismo\obj\Debug\net7.0\11Polimorfismo.AssemblyInfo.cs
+C:\Users\Mariane Camilo Costa\DevMe\Orientação a objetos\11Polimorfismo\obj\Debug\net7.0\11Polimorfismo.csproj.CoreCompileInputs.cache
