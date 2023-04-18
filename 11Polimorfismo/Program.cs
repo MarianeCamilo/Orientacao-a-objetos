@@ -13,7 +13,7 @@ namespace _11Polimorfismo
             Console.WriteLine("__________________");
 
             // instanciar gerente
-            Imposto objetoG = Gerente();
+            Imposto objetoG = new Gerente();
             objetoG.valeAlimentacao(2500);
             objetoG.valeTransporte(800);
             Console.WriteLine("__________________");
